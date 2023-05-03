@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+img{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    border: 1px solid  rgb(43, 152, 253);
+}
